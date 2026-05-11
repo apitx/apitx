@@ -37,5 +37,5 @@
 
 ## 🔥 Racha de contribuciones
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pitxgoras&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=apitx&theme=tokyonight&hide_border=true" />
 </p>
