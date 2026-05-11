@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jhonn Pether [(Pitx)](https://steamcommunity.com/id/xmini0n_sx)
+# 👋 ¡Hola! Soy Jhonn Pether [(Apitx)](https://steamcommunity.com/id/xmini0n_sx)
 <a href="https://www.linkedin.com/in/jhonn-pether-sj/">
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
