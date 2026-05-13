@@ -9,7 +9,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=apitx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&v=2" alt="Estadísticas de GitHub de pitxgoras" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=apitx&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10&v=2" alt="Lenguajes más usados por pitxgoras" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=apitx&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10&v=6" alt="Lenguajes más usados por pitxgoras" />
 </p>
 
 <p align="center">
